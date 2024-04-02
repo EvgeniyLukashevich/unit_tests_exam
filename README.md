@@ -24,7 +24,9 @@ Your code has been rated at 10.00/10 (previous run: 10.00/10, +0.00)
 ```shell
 pytest --cov=list_utils --cov-report=html:coverage_report.html
 ```
-### РЕЗУЛЬТАТ:
+### РЕЗУЛЬТАТ:  
+![image](https://github.com/EvgeniyLukashevich/unit_tests_exam/assets/108574612/f4d989d5-50af-43fa-a88b-ff69cd21f6ea)
+
 
 
 ---
